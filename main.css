@@ -1,0 +1,24 @@
+body {
+    background-image: url(zebra.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1, h2, h3 {
+    color: #ffffff;
+    text-shadow: 2px 2px 5px black;
+    line-height: 1rem;
+}
+
+.borderImg {
+    border: 10px dashed red;
+}
+
+ul li {
+    color: white;
+    font-size: 20px;
+}
+
+ul > li {
+    color: yellow;
+}
